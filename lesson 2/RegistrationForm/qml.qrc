@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>RegButton.qml</file>
-        <file>CloseButton.qml</file>
-    </qresource>
-</RCC>
